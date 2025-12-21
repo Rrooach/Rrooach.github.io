@@ -9,7 +9,7 @@ profile:
   group: <a href="http://www.wingtecher.com/homeen">WingTecher Lab</a>
   university: <a href="https://www.tsinghua.edu.cn/en/"> Tsinghua University </a>
   email: syh1308@gmail.com
-  image: prof_pic_ccs.jpg
+  image: me.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Email: syh1308@gmail.com</p>
