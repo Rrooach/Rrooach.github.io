@@ -25,6 +25,6 @@ social: false # includes social icons at the bottom of the page
 **Research Achievements:** I have published 20+ papers in top-tier conferences and journals such as Eurosys, ICSE, abd TCAD. My work has uncovered 100+ impactful vulnerabilities across complex system software stacks, including operating systems, kernels, and system services, and has contributed to their remediation through responsible disclosure and patching.
 
 <p>
-  <a class="btn btn-sm btn-outline-secondary" href="{{ 'assets/pdf/resume_en.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Download PDF (English)</a>
-  <a class="btn btn-sm btn-outline-secondary" href="{{ 'assets/pdf/resume_zn.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Download PDF (Chinese)</a>
+  <a class="btn btn-sm btn-outline-secondary" href="{{ 'assets/pdf/resume_en.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Resume</a>
+  <a class="btn btn-sm btn-outline-secondary" href="{{ 'assets/pdf/resume_zn.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">简历</a>
 </p>
