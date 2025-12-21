@@ -13,7 +13,6 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Email: syh1308@gmail.com</p>
-    <p>11-301, East-Main Building</p>
     <p>School of Software, Tsinghua University</p>
    
 news: true # includes a list of news items
