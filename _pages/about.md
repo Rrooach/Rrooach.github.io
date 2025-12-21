@@ -23,3 +23,9 @@ social: false # includes social icons at the bottom of the page
 **Background:** I received my Ph.D. from Tsinghua University in 2025, advised by <a href="https://sites.google.com/site/jiangyu198964/home">Prof. Yu Jiang</a>. I am currently a postdoctoral researcher (Shuimu Scholar) at Tsinghua University. My research focuses on system security and reliability, with an emphasis on fuzzing and program analysis for operating systems and embedded systems, including the Linux kernel, embedded operating systems, and robot operating systems.
 
 **Research Achievements:** I have published 20+ papers in top-tier conferences and journals such as Eurosys, ICSE, abd TCAD. My work has uncovered 100+ impactful vulnerabilities across complex system software stacks, including operating systems, kernels, and system services, and has contributed to their remediation through responsible disclosure and patching.
+
+<p>
+  <a class="btn btn-sm btn-primary" href="{{ '/cv/' | relative_url }}">View CV (English)</a>
+  <a class="btn btn-sm btn-outline-secondary" href="{{ 'assets/pdf/cv.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Download PDF (English)</a>
+  <a class="btn btn-sm btn-outline-secondary" href="{{ 'assets/pdf/cv_cn.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Download PDF (Chinese)</a>
+</p>
